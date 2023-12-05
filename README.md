@@ -12,4 +12,6 @@ Responsiveness: adaptations were made to the website so that it responds appropr
 
 🌐 I hope you enjoyed it, see you next time!
 
+Project's Link: https://portfolio-lp-neon-bank.netlify.app/
+
 ![banconeon](https://github.com/Arthurcav/project_lp_neonbank/assets/113715508/b9b2d85a-55b4-4036-baba-3f841bd97b20)
